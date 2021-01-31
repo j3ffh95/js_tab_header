@@ -15,3 +15,12 @@ body {font-family: "Lato", sans-serif;}
 .tablink:hover {
   background-color: #777;
 }
+
+/* Style the tab content */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
+
